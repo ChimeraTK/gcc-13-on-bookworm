@@ -1,0 +1,5 @@
+Types: deb
+URIs: file:/usr/local/mydebs
+Suites: gcc-backport
+Components: main
+Trusted: true
